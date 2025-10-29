@@ -29,5 +29,12 @@ Le modifiche introdotte in **`page2tei_mod.xsl`** comprendono:
 
 - Dario Kampkaspar, *page2tei* — [GitHub Repository](https://github.com/dariok/page2tei)
 
+Licenza
+
+Il progetto **page2tei** di Dario Kampkaspar è distribuito sotto **MIT License**.  
+La presente versione modificata, **`page2tei_mod`**, è rilasciata secondo i termini della **stessa licenza**, in conformità con quelli del progetto originale.
+
+Per ulteriori informazioni, consultare la licenza MIT originale disponibile su GitHub:  
+[MIT License – page2tei](https://github.com/dariok/page2tei/blob/master/LICENSE)
 
 
